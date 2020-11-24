@@ -3,3 +3,12 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
     background:linear-gradient(89deg, #FF5EDF 0%, #04c8de 100%);
 }
+
+img{
+    position: relative;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

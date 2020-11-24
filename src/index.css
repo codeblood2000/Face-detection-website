@@ -12,12 +12,6 @@ button{
   cursor: pointer;
 }
 
-img{
-  margin-top: 15px;
-  max-height: 20rem;
-  max-width: 30rem;
-}
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
