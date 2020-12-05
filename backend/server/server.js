@@ -37,7 +37,7 @@ app.post('/signin', (req, res) => {
 // });
 // bcrypt.compare("mang", "$2a$10$HLnGD8JRWC8BA8fk6xz/HOzJLmr6f/4OjVBK.nD5LJ0sYelOREcJm", function(err, res) {
 //     console.log('second guess',res);
-
+    
 // });
     if(req.body.email === database.users[0].email && req.body.password === database.users[0].password){
         res.json('sucess');
